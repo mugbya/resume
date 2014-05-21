@@ -1,4 +1,4 @@
-本简历 fork 自 David Hamp-Gonsalves 的 [Resume][r]。
+本简历 fork 自 xuxiaodong 的 [resume][r]。
 
 ## 准备环境
 
@@ -14,4 +14,4 @@ node node_modules/markdown-resume/bin/md2resume resume.md       # 生成 HTML �
 node node_modules/markdown-resume/bin/md2resume --pdf resume.md # 生成 PDF 格式
 ```
 
-[r]: https://github.com/davidhampgonsalves/resume
+[r]: https://github.com/xuxiaodong/resume
